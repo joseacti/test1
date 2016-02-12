@@ -6,7 +6,7 @@ public class A{
 //		String s =null;
 		System.out.println(String.valueOf(s).trim());
 		System.out.println("new line entry");
-		System.out.println("say hello");	
+		System.out.println("say hello2");	
 		
 		
 	}  
